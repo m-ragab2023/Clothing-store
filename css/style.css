@@ -18,7 +18,7 @@
     transition: ease all 1s;
 }
 .contact{
-    background-image: url('/images/bgcimge.jpg');
+    background-image: url(/images/bgcimge.jpg);
     background-size: cover;
     background-attachment: fixed;
     height: 60vh;
