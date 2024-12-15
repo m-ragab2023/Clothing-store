@@ -1,0 +1,37 @@
+.carousel-item img{
+    height: 100vh;
+}
+.myicon i{
+    color: blue;
+    font-size: 30px;
+}
+.offcan-im {
+    height: 250px;
+    width: 250px;
+}
+.card img{
+    width: 100%;
+    height: 300px;
+}
+.card img:hover{
+    transform: scale(1.1);
+    transition: ease all 1s;
+}
+.contact{
+    background-image: url('/images/bgcimge3.avif');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 60vh;
+    text-align: center;  
+}
+.contact h3{
+    margin-top: 30px;
+}
+.order{
+    height: 60vh;
+}
+.best-sells{
+    height: 100vh;
+}
+
+
